@@ -17,4 +17,4 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Part 3:
+## Part 3: Create your own visualization
