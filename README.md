@@ -21,4 +21,4 @@ Coming soon...
 
 
 ### In-Class Exercises
-Take a look at some of the practice work I completed in class on my journey to become a visualization master [here](InClassExercises.md)!
+Take a look at some of the practice work I completed in class on my journey to become a visualization master [here](in-class-exercises.md)!
