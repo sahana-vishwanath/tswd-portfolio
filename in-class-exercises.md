@@ -1,3 +1,5 @@
+[home page](README.md)
+
 # In-class Exercises
 Some examples of practice work from class ~
 
