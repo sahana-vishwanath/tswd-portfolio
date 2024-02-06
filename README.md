@@ -13,7 +13,7 @@ I am very interested in human behavior and specifically UX research, and within 
 Click [here](/visualizing-government-debt.md) to take a further look.
 
 ### Assignment 3&4: 
-Click [here](/assignment3-4.md) to take a further look.
+Click [here](/critique-by-design.md) to take a further look.
 
 ### Final project
 Coming soon...
