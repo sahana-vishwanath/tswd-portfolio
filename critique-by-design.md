@@ -5,7 +5,7 @@
 ## Step 1: Choose a data visualization from MakeoverMonday
 The task for this assignment was to critique and redesign an existing visualization. I started off by exploring the [Makeover Monday](https://makeovermonday.co.uk/) website, which contains links from various sources of visualizations that have the potential to be improved. The visualization and data set I decided to explore was from the UNICEF website about [child marriage around the world](https://data.unicef.org/topic/child-protection/child-marriage/).
 
-![child marriage visualization](/child-marriage-viz-original.png)
+<img src="child-marriage-viz-original.png" width="250"/>
 I was intrigued by the topic of this visualization, and found that the data set for this visualization had a few different data points which would allow me to play around with different visualization options.
 
 
