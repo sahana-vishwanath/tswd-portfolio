@@ -12,7 +12,7 @@ I am very interested in human behavior and specifically UX research, and within 
 ### Assignment 1: Visualizing government debt using Tableau
 Click [here](/visualizing-government-debt.md) to take a further look.
 
-### Assignment 3&4: 
+### Assignment 3&4: Critique by Design with Tableau (MakeoverMonday)
 Click [here](/critique-by-design.md) to take a further look.
 
 ### Final project
