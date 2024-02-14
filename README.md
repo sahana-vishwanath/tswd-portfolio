@@ -16,7 +16,7 @@ Click [here](/visualizing-government-debt.md) to take a further look.
 Click [here](/critique-by-design.md) to take a further look.
 
 ### Final project
-Coming soon...
+Click [here](/final-project-part-one.md) for part 1 of my final project.
 
 
 
