@@ -1,4 +1,4 @@
-[home page](/README.md) || [critique by design](/critique-by-design.md)
+[home page](/README.md) || [critique by design](/critique-by-design.md) || [final project: part 1](/final-project-part-one.md)
 
 # Assignment 1: Visualizing government debt using Tableau
 
