@@ -30,6 +30,4 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to use Shorthand for the final project, and am thinking of using both Tableau and Flourish to create my visualizations. I also plan to use Canva to create a moodboard as well as a design guideline template.
