@@ -23,6 +23,7 @@ Here are some sketches of how I plan to display the information described above.
 |  Fertility Rates Around the World   |  https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?end=2021&start=1960&view=chart   |  Dataset containing fertility rates of countries around the world from 1960-2021   |
 | Infertility Treatment Costs | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043157/ | Study that contains data describing the cost of various infertility treatments |
 | CDC Fertility Clinics | https://data.cdc.gov/Assisted-Reproductive-Technology-ART-/2021-Final-Assisted-Reproductive-Technology-ART-Se/ix4g-rt8v/about_data | Dataset that includes clinics in the US that provide fertility services/treatments |
+| Disparities in Access to Fertility Care | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8244333/ | Study detailing how variables such as race, religion, age, income level, etc, affect access to fertility care |
 
 # Method and medium
 I plan to use Shorthand for the final project, and am thinking of using both Tableau and Flourish to create my visualizations. I also plan to use Canva to create a moodboard as well as a design guideline template.
