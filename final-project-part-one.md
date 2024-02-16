@@ -14,20 +14,15 @@ Here are some sketches of how I plan to display the information described above.
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |  https://www.cdc.gov/nchs/nsfg/key_statistics/i-keystat.htm   |             |
+|  CDC Infertility Statistics    |  https://www.cdc.gov/nchs/nsfg/key_statistics/i-keystat.htm   |    Various statistics on infertility in the US         |
 |   Number of infertile women by state    |  https://resolve.org/learn/financial-resources-for-family-building/insurance-coverage/getting-insurance-coverage-at-work/number-of-infertile-by-state/   |    Uses data from 2010 U.S. Census and the National Survey of Family Growth from 2015-2017 to determine number of infertile women by state     |
 |  National Library of Medicine Fertility care study | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860047/table/T1/?report=objectonly  | Breakdown of 428 women seeking fertility care by demographic, socioeconomic, treatment, and outcome  |
-|     |  https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?end=2021&start=1960&view=chart   |     |
-|   | https://data.oecd.org/pop/fertility-rates.htm   |    |
-| | https://data.cms.gov/provider-data/dataset/nrdb-3fcy | |
-| | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043157/ | |
-| | https://data.cdc.gov/Assisted-Reproductive-Technology-ART-/2021-Final-Assisted-Reproductive-Technology-ART-Se/ix4g-rt8v/about_data | |
+|  Fertility Rates Around the World   |  https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?end=2021&start=1960&view=chart   |  Dataset containing fertility rates of countries around the world from 1960-2021   |
+| Infertility Treatment Costs | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043157/ | Study that contains data describing the cost of various infertility treatments |
+| CDC Fertility Clinics | https://data.cdc.gov/Assisted-Reproductive-Technology-ART-/2021-Final-Assisted-Reproductive-Technology-ART-Se/ix4g-rt8v/about_data | Dataset that includes clinics in the US that provide fertility services/treatments |
 
 # Method and medium
 I plan to use Shorthand for the final project, and am thinking of using both Tableau and Flourish to create my visualizations. I also plan to use Canva to create a moodboard as well as a design guideline template.
