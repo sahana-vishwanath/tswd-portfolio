@@ -55,8 +55,10 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+# Color Palette
+<!-- Coolors Palette Widget -->
+<script src="https://coolors.co/palette-widget/widget.js"></script>
+<script data-id="020967923891515494">new CoolorsPaletteWidget("020967923891515494", ["f07e38","fef9ff","596869","e5f993","8cc084"]); </script>
 
 Text here!
 
