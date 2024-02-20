@@ -11,9 +11,8 @@ Wireframe 2:
 
 
 # User research 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story.
 
+## Target audience
 I do not have a very specific audience for my research - women tend to be more aware of infertility, however, I think it is important for men to learn more and be more aware of these struggles as well. I am hoping my research helps bring awareness, and help chip away, even if just marginally, at the taboo of infertility and start a conversatino. For my research, I am planning to approach both men and women, and I am curious to see if/how their responses differ.
 
 ## Interview script
