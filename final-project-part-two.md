@@ -4,10 +4,13 @@
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 Wireframe 1:
-<iframe title="Infertility Rate per State" aria-label="Map" id="datawrapper-chart-rGDFZ" src="https://datawrapper.dwcdn.net/rGDFZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+<iframe title="Fertility Rate in the US (1960-2021)" aria-label="Interactive line chart" id="datawrapper-chart-F2Jg6" src="https://datawrapper.dwcdn.net/F2Jg6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
+
 Wireframe 2:
+<iframe title="Infertility Rate per State" aria-label="Map" id="datawrapper-chart-rGDFZ" src="https://datawrapper.dwcdn.net/rGDFZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 
 # User research 
