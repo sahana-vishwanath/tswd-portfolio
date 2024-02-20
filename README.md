@@ -17,6 +17,8 @@ Click [here](/critique-by-design.md) to take a further look.
 
 ### Final project
 Click [here](/final-project-part-one.md) for part 1 of my final project.
+Click [here](/final-project-part-two.md) for part 2 of my final project.
+
 
 
 
