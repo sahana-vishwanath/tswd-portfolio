@@ -8,14 +8,23 @@ Wireframe 1:
 </script>
 
 
+
+Table 1:
+<iframe title="Most Common Causes of Infertility" aria-label="Table" id="datawrapper-chart-i1sBU" src="https://datawrapper.dwcdn.net/i1sBU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1500" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+
+
 Wireframe 2:
 <iframe title="Infertility Rate per State" aria-label="Map" id="datawrapper-chart-rGDFZ" src="https://datawrapper.dwcdn.net/rGDFZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
 
+
 Table 2:
 <iframe title="Most Common Infertility Treatments" aria-label="Table" id="datawrapper-chart-3SuDi" src="https://datawrapper.dwcdn.net/3SuDi/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="843" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
+
 
 # User research 
 
