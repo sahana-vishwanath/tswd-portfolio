@@ -68,6 +68,7 @@ I do not have a very specific audience for my research - women tend to be more a
 |    Connect from one visual to the next better                            |   I think I want to work on the wording between visuals a little more to make sure there is a clear transition between each section.  |
 |   Add in total population to Infertility Rate per State visual                                       |      When discussing with my interviewee, I realized how misleading this visual currently is since it is just showing that the states with the highest population have the highest number of infertility cases. I plan to add Census data of state populations so that this visual shows the rate of infertility per state rather than just the number.                                                                           |
 |    Cut down on causes of infertility table                                      |   Like my interviwee said, this table feels quite long and is too much to look at so I plan to bring the number of causes down to 5 or 6.    |
+| Finalize clinic map visual | My interviewees did not mention any critiques on this visual, however I want to work on it a little more to try to emphasize that the current clinics are focused in urban areas. |
 
 
 I think overall interviewees were interested in my topic and the story I told, however there is more I can do to make the overall story feel more seamless and flow better.
