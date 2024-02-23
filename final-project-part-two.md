@@ -55,7 +55,7 @@ I do not have a very specific audience for my research - women tend to be more a
 | Questions               | Interview 1: South-Asian, mid-20s, Female | Interview 2: Asian, early-30s, Male | Interview 3: South-Asian American, late 20s, Female |
 |-------------------------|--------------------------------|-------------|-------------|
 | Clarity of visualizations questions | Visuals were easy to understand quickly, Was curious about the choice of the color orange      |     Liked the country map visuals especially, was confused about if population size was accounting for in the first country map visual        |   Liked the current visuals, wanted to see more visual information specifically about the lack of clinics in rural areas          |
-|          Clear story questions               |       Story flowed well, thought the of causes was excessive and maybe just to include top 5-6                    |     Felt the jump from causes of infertility to the country map of clinics felt a little disjointed, but could be fixed by adding a callout statistic or something similar        |       Not too much feedback, story flowed well to her      |
+|          Clear story questions               |       Story flowed well, thought the of causes was excessive and maybe just to include top 5-6                    |     Felt the jump from causes of infertility to the country map of clinics felt a little disjointed, but could be fixed by adding a callout statistic or something similar        |       Not too much feedback, felt the story flowed well for the most part but could work on it a little more     |
 |     Spark curiosity questions                    |      Loved this topic, was intersted in learning more specifically about the Walking Egg Project                          |     Didn't know a lot of information about the topic, and was open to learn more        |   Very aware of infertility and brought up recent news about IVF case in Alabama that I could potentially mention/include in my story, once again wanted to see more about the lack of rural clinics and maybe show a visual here to visually display the number difference          |
 
 
@@ -64,14 +64,14 @@ I do not have a very specific audience for my research - women tend to be more a
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Lack of visuals about rural clinics | Add an inforgraphic, or small visual showing the data about the rural clincs rather than a lot of text. I think once I transition to Shorthand this will be a little easier since I will be able to play around with the background pictures more. |
+|    Connect from one visual to the next better                            |   I think I want to work on the wording between visuals a little more to make sure there is a clear transition between each section.  |
+|   Add in total population to Infertility Rate per State visual                                       |      When discussing with my interviewee, I realized how misleading this visual currently is since it is just showing that the states with the highest population have the highest number of infertility cases. I plan to add Census data of state populations so that this visual shows the rate of infertility per state rather than just the number.                                                                           |
+|    Cut down on causes of infertility table                                      |   Like my interviwee said, this table feels quite long and is too much to look at so I plan to bring the number of causes down to 5 or 6.    |
 
 
-I think overall interviewees were interested in my topic and the story I told, however there 
+I think overall interviewees were interested in my topic and the story I told, however there is more I can do to make the overall story feel more seamless and flow better.
+
 
 # Color Palette
 <!-- Coolors Palette Widget -->
