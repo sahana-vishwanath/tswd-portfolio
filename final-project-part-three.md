@@ -1,31 +1,24 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project: part 1](final-project-part-one) | [final project: part 2](final-project-part-two) 
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+Here is a link to my final data story on Shorthand: https://carnegiemellon.shorthandstories.com/us-infertility-treatment/index.html
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+One of the first changes I made was to change my color palette to no longer include the green/yellow shades I was previously considering. Although I do think that the greens shade aligned more with the symbol of fertility, it felt very disjointed to have only one visual use the green color and the rest be orange, so I updated the Fertility Rate in the US chart to use orange. The next change I made was to the "Infertility Rate per State" visualization since the numbers did not take into account the population of each state. I created a new calculation column in Tableau to divide the number of individuals with fertility problems by the state population and created the new visual. Another element I changed was to make an infographic of the common infertility causes. My main reason to do this was to make this data more visually appealing, and to help break up the large sections of text. 
 
-Text here!
+
+One of the biggest updates I made was to the fertility clinics map visualization. I wanted to play with different ways to focus on various states to show various issues with the spread of fertility clinics. I decided to focus in on Texas, Indiana, and Illinois to show how fertility clinics tend to be located in urban areas. I chose Texas because it is a large state with multiple large cities, so I was able to show the clusters of clinics in the urban cities, whereas the rest of the state was much emptier. I chose to color the clinics in the big cities orange and the rural clinics gray to emphasize the number of clinics in the major cities. I also added labels to make it clear what the clusters represented. I chose Indiana and Illinois because each state has only one main urban city, so I wanted to show the contrast to Texas in that these states only had one cluster of clinics, and the location of the cluster could be in the corner of a state, like Chicago. I made the same design choices with this visual as the Texas one to be consistent. I then chose to show Wyoming because this state does not have a single fertility clinic. I kept the clinics orange because I wanted to highlight where the closest clinics were to the state. I was quite happy with the way this set of maps turned out. I think it was effective in showing the lack of clinics in rural areas and how there are large stretches of land (sometimes even a full state) that do not have any clinics, restricting access to those populations.
+
+
+The next change I made was to include the recent news about the Alabama supreme court decision and how it impacted IVF treatment services in the state. One of my interviewees brought my attention to this during phase 2, and I thought it would be interesting to show this story to indicate how relevant this issue is in current day. To further emphasize this story, I made another state specific visual, this time focusing on Alabama, and I colored the clinics that paused their services in red since I thought it would draw attention and red is typically considered a color to indicate alert/"bad." I also labelled the three clinics that paused services to draw more attention to them. 
+
+
+The last change I made was to include a call to action specifically for a support group. Since I decided to focus one of my audiences specifically on individuals dealing with fertility struggles (read the next section for more details on this change) I wanted to make sure I provided resources that could try to help provide some support.
+
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+I decided to have two main audiences for my final story, one specific and one more broad. The more specific group was any individual who is currently dealing with fertility struggles. Since I know that there can be a lot of shame around this topic for individuals experiencing these struggles, I wanted to make sure they know that it is more common than most people think. Because of this, I made sure to include links in my call to action section for both a support group as well as resources that individuals can use for support and to learn more. My second broad audience was general public. One of the main driving forces for me to pick this topic was to share this type of data and let people know that this is a common problem and that there are a lot of issues surrounding it. Because of this I wanted to make sure that I kept general audiences who aren't familiar with this topic at all in mind as a key audience member. To address this audience, I tried to include definitions and explanations of various terms and treatments in my data story.
 
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+I enjoyed this project a lot, I think it definitely helped me look at data differently and think about how to create a narrative. The main thing I struggled with was finding a topic and data to support it. I really wanted this project to be about a topic that I genuinely was interested in or cared about, however, I found it very difficult to decide on a topic because I wasn't able to find enough data to create a story for many topics. Once I decided on my topic, the process went much smoother since I had data to support my story. Although I was aware of fertility struggles and how common they are, I really enjoyed diving deeper into the topic, and found myself reading various articles as I was working on each part of the project, which was genuinely very exciting and interesting. I definitely plan on expanding/improving upon this project further. During parts 2 and 3 there were times when I felt restricted by my lack of expertise in the various data visualization tools, so I'm hoping to practice more and improve upon the visualizations that I have created already. 
