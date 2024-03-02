@@ -16,7 +16,7 @@ The next change I made was to include the recent news about the Alabama supreme 
 The last change I made was to include a call to action specifically for a support group. Since I decided to focus one of my audiences specifically on individuals dealing with fertility struggles (read the next section for more details on this change) I wanted to make sure I provided resources that could try to help provide some support.
 
 
-## The audience
+# The Audience
 I decided to have two main audiences for my final story, one specific and one more broad. The more specific group was any individual who is currently dealing with fertility struggles. Since I know that there can be a lot of shame around this topic for individuals experiencing these struggles, I wanted to make sure they know that it is more common than most people think. Because of this, I made sure to include links in my call to action section for both a support group as well as resources that individuals can use for support and to learn more. My second broad audience was general public. One of the main driving forces for me to pick this topic was to share this type of data and let people know that this is a common problem and that there are a lot of issues surrounding it. Because of this I wanted to make sure that I kept general audiences who aren't familiar with this topic at all in mind as a key audience member. To address this audience, I tried to include definitions and explanations of various terms and treatments in my data story.
 
 
