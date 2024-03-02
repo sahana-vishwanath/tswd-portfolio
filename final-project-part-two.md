@@ -1,4 +1,4 @@
-[home page](/README.md) || [visualizing government debt](/visualizing-government-debt.md) || [critique by design](/critique-by-design.md)  || [final project: part 1](/final-project-part-one.md) ||  [final project part 3](final-project-part-three)
+[home page](/README.md) || [visualizing government debt](/visualizing-government-debt.md) || [critique by design](/critique-by-design.md)  || [final project: part 1](/final-project-part-one.md) ||  [final project: part 3](final-project-part-three)
 
 # First Draft: Wireframes and storyflow
 
