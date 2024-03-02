@@ -1,4 +1,4 @@
-[home page](/README.md) || [visualizing government debt](/visualizing-government-debt.md) || [final project: part 2](/final-project-part-two.md) || [final projectL part 3](final-project-part-three)
+[home page](/README.md) || [visualizing government debt](/visualizing-government-debt.md) || [critique by design](/critique-by-design.md) || [final project: part 2](/final-project-part-two.md) || [final projectL part 3](final-project-part-three)
 
 # Outline
 For my final project, I decided to explore infertility in the US. Infertility affects millions of individuals and couples across the United States, and is a significant yet often overlooked aspect of reproductive health. There is a large stigma around infertility, and it tends to be a topic that is not openly discussed in society since many couples, especially women, feel ashamed and insecure about the struggles they face. 
