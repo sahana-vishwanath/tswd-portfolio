@@ -18,9 +18,4 @@ Click [here](/critique-by-design.md) to take a further look.
 ### Final project
 Click [here](/final-project-part-one.md) for part 1 of my final project.
 Click [here](/final-project-part-two.md) for part 2 of my final project.
-
-
-
-
-### In-Class Exercises
-Take a look at some of the practice work I completed in class on my journey to become a visualization master [here](in-class-exercises.md)!
+Click [here](/final-project-part-three.md) for part 3 of my final project.
