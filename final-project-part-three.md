@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project: part 1](final-project-part-one) | [final project: part 2](final-project-part-two) 
 
 # The final data story
-Here is a link to my final data story on Shorthand: Beyond Conception: [Unveiling Infertility Across America](https://carnegiemellon.shorthandstories.com/us-infertility-treatment/index.html)
+Here is a link to my final data story on Shorthand: [Beyond Conception: Unveiling Infertility Across America](https://carnegiemellon.shorthandstories.com/us-infertility-treatment/index.html)
 
 # Changes made since Part II
 One of the first changes I made was to change my color palette to no longer include the green/yellow shades I was previously considering. Although I do think that the greens shade aligned more with the symbol of fertility, it felt very disjointed to have only one visual use the green color and the rest be orange, so I updated the Fertility Rate in the US chart to use orange. The next change I made was to the "Infertility Rate per State" visualization since the numbers did not take into account the population of each state. I created a new calculation column in Tableau to divide the number of individuals with fertility problems by the state population and created the new visual. Another element I changed was to make an infographic of the common infertility causes. My main reason to do this was to make this data more visually appealing, and to help break up the large sections of text. 
